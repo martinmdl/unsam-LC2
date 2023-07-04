@@ -1,2 +1,2 @@
-# unsam-LC2
-All the practice done while taking **LABORATORIO DE COMPUTACIÓN 2** classes on UNSAM.
+# Laboratorio de Computación 2
+All the practice done while taking this UNSAM assignment. Plus all the theory needed.
